@@ -1,7 +1,7 @@
 .. _STM32ToolchainCMakeProject:
 
 #########################################################################
-STM32 toolchain (CubmeMX,STM32Programmer, GCC, Make and OpenOCD)
+STM32 toolchain Make and CMake
 #########################################################################
 
 
