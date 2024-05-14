@@ -201,7 +201,7 @@ Steps:
              end the comment guards I'll then save my work.
              
              Next we go back into the graphical tool and change a hardware configuration,
-             make some change such a switching a pin to outut and then save.
+             make some change such a switching a pin to output and then save.
 
              Click save and it ask us to generate code again, click yes,
              see the code that was written between the comment guards persisted,
